@@ -1,5 +1,2 @@
-streamlit 
-pandas 
-numpy 
-plotly 
-reportlab
+anthropic>=0.40.0
+streamlit>=1.40.0
